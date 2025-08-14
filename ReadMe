@@ -1,6 +1,42 @@
-1/Open Discordstatuschanger.exe 
-2/put your Token
-3/ test your token
-4/change status 1 / status 2 / status 3
-5/change imojis 
-6/Start 
+# 🔄 Discord Status Changer
+
+A simple and lightweight tool to customize your Discord status with ease. Change your status text, emojis, and more with just a few clicks!
+
+## 🚀 Features
+
+- 🔑 **Token Authentication** - Secure login using your Discord token
+- 📛 **Multiple Status Presets** - Switch between 3 customizable statuses
+- 😃 **Emoji Support** - Add emojis to your status for extra personality
+- ⚡ **Lightweight** - Minimal resource usage while running
+
+## 📥 Installation
+
+1. Download the latest release from the [Releases page](#)
+2. Extract the ZIP file to your preferred location
+
+## 🛠️ Usage
+
+1. **Launch** the application:
+2. **Enter** your Discord token when prompted
+3. **Test** your token to verify it works
+4. **Choose** between Status 1, 2, or 3
+5. **Customize** emojis for your status
+6. **Start** the status changer
+
+## ⚠️ Important Notes
+
+- 🔒 Keep your token private and never share it
+- ❌ This tool is not affiliated with Discord Inc.
+- ⏳ Status changes may take a few moments to appear
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+## 📜 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+---
+
+> 💡 For help or support, please open an issue in this repository.
